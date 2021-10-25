@@ -1,6 +1,6 @@
 {
   "domain": "soma_custom",
-  "name": "Soma Connect",
+  "name": "Soma Connect Custom",
   "config_flow": true,
   "documentation": "https://github.com/ThomasPrior/soma-custom",
   "codeowners": ["@ThomasPrior"],
